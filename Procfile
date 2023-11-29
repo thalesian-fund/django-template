@@ -1,1 +1,1 @@
-web: gunicorn metathales.wsgi
+web: gunicorn mysite.wsgi
