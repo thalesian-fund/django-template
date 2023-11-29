@@ -1,5 +1,6 @@
 {
     "name": "Thalesian Fund #1",
     "description": "Simple example",
-    "repository": "https://github.com/thalesian-fund/django-template"
+    "repository": "https://github.com/thalesian-fund/django-template",
+    "image": "heroku/python"
 }
